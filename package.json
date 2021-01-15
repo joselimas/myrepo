@@ -4,13 +4,7 @@
   "description": "myrepo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"fuuuuuuuuuuuuuuck\" && exit 1",
-    "preinstall": "./preinstall.sh",
     "install": "./install.sh",
-    "postinstall": "./postinstall.sh",
-    "preuninstall": "./preuninstall.sh",
-    "uninstall": "./uninstall.sh",
-    "postuninstall": "./postuninstall.sh"
   },
   "author": "me"
 }
