@@ -4,7 +4,7 @@
   "description": "myrepo",
   "main": "index.js",
   "scripts": {
-    "install": "./install.sh",
+    "install": "./install.sh"
   },
   "author": "me"
 }
